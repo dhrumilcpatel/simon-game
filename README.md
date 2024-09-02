@@ -25,7 +25,7 @@ To view or modify the project, you'll need a web browser.
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/simon-game.git
+    git clone https://github.com/dhrumilcpatel/simon-game.git
     ```
 
 2. **Navigate to the project directory**:
